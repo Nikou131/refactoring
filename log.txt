@@ -1,4 +1,6 @@
-003cdaa (HEAD -> main) complete task 2.1
+7ef41af (HEAD -> main) minor change for Task 1.2
+e285a2a updata git log, Task2.2
+003cdaa complete task 2.1
 2cde4cf (origin/main, origin/HEAD) update log txt(Task 1)
 384f46c Fix private field access errors by using getters (Task 1 cleanup)
 5ddf280 update git log, Task 1.2.
