@@ -1,4 +1,6 @@
-7ef41af (HEAD -> main) minor change for Task 1.2
+3765d67 (HEAD -> main) complete Task 2.2
+3b8cdd7 update git log, Task 2.2
+7ef41af minor change for Task 1.2
 e285a2a updata git log, Task2.2
 003cdaa complete task 2.1
 2cde4cf (origin/main, origin/HEAD) update log txt(Task 1)
