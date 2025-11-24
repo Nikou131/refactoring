@@ -1,4 +1,6 @@
-e4dd002 (HEAD -> main) Fix typo in previous commit message: update git log, Task 1.1
+b6ddacd (HEAD -> main) fix minor problem of Task 2.3
+162e59c (origin/main, origin/HEAD) complete all
+e4dd002 Fix typo in previous commit message: update git log, Task 1.1
 5223e37 Fix typo in previous commit message: update git log, Task 2.1
 4fcdb35 update git log, Task 2.4
 4ccdfc7 complete Task 2.4
@@ -10,7 +12,7 @@ a41c065 update git log, Task 2.3
 7ef41af minor change for Task 1.2
 e285a2a updata git log, Task2.2
 003cdaa complete task 2.1
-2cde4cf (origin/main, origin/HEAD) update log txt(Task 1)
+2cde4cf update log txt(Task 1)
 384f46c Fix private field access errors by using getters (Task 1 cleanup)
 5ddf280 update git log, Task 1.2.
 19dffab complete task1.1
