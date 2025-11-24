@@ -1,4 +1,5 @@
-5223e37 (HEAD -> main) Fix typo in previous commit message: update git log, Task 2.1
+e4dd002 (HEAD -> main) Fix typo in previous commit message: update git log, Task 1.1
+5223e37 Fix typo in previous commit message: update git log, Task 2.1
 4fcdb35 update git log, Task 2.4
 4ccdfc7 complete Task 2.4
 a41c065 update git log, Task 2.3
