@@ -1,2 +1,4 @@
-19dffab (HEAD -> main, origin/main, origin/HEAD) complete task1.1
+384f46c (HEAD -> main, origin/main, origin/HEAD) Fix private field access errors by using getters (Task 1 cleanup)
+5ddf280 update git log, Task 1.2.
+19dffab complete task1.1
 f872b02 Initial commit
